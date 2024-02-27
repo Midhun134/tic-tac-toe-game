@@ -9,7 +9,7 @@ Option to choose between different difficulty levels.
 Customizable board size for added complexity.
 Detailed performance metrics for the AI opponent.
 # Requirements
-Python 3.11.8
+ Python 3.11.8
 
 # Installation
 Clone the repository:
