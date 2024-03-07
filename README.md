@@ -3,7 +3,7 @@ Monte Carlo Tic Tac Toe
 Monte Carlo Tic Tac Toe is a Python implementation of the classic Tic Tac Toe game with a twist - it utilizes the Monte Carlo simulation algorithm to play against the player. The game offers a challenging and strategic experience, where the AI opponent makes decisions based on randomized simulations, providing an unpredictable and engaging gameplay.
 
 # Features
-Play against an AI opponent powered by the Monte Carlo simulation algorithm.
+Play against an AI opponent powered by the Monte Carlo simulation algorithm
 Simple and intuitive interface for easy gameplay.
 Option to choose between different difficulty levels.
 Customizable board size for added complexity.
