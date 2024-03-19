@@ -8,6 +8,7 @@ Simple and intuitive interface for easy gameplay.
 Option to choose between different difficulty levels.
 Customizable board size for added complexity.
 Detailed performance metrics for the AI opponent.
+change this tmrw.
 # Requirements
  Python 3.11.8
 
