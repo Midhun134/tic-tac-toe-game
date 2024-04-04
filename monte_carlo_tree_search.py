@@ -98,7 +98,7 @@ class MCTS:
 
 class Node(ABC):
     """
-    A representation of a single board state.
+    A representation of a single board state and
     MCTS works by constructing a tree of these Nodes.
     Could be e.g. a chess or checkers board state.
     """
