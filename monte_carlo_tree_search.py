@@ -34,7 +34,7 @@ class MCTS:
         return max(self.children[node], key=score)
 
     def do_rollout(self, node):
-        "Make the tree one layer better. (Train for one iteration.)"
+        "Make the tree one layer better. ((Train for one iteration.))"
         path = self._select(node)
         leaf = path[-1]
         self._expand(leaf)
